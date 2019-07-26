@@ -18,6 +18,6 @@
 
 ### Learnings from the project
 
- Learned how to apply the knoweldge of python operations like mathematical operations, list operations, dictonary operations, string indexing and formatting practically.
+ Learned how to apply the knoweldge of python operations like mathematical operations, list operations, dictionary operations, string indexing and formatting practically.
 
 
